@@ -17,4 +17,6 @@ A React-based URL shortener app with Node.js Express backend for CORS bypass, bu
 
 ## License
 
-MIT
+MIT![Screenshot (98)](https://github.com/user-attachments/assets/6429e172-2ecb-41f7-82d7-f1a7ec4b042b)
+![Screenshot (99)](https://github.com/user-attachments/assets/cc26c259-28e5-4cb0-a265-4ac2eb303ef0)
+
